@@ -17,12 +17,8 @@ license: CC0
 * 你可以依關鍵字搜尋
 
 ## 使用方法
-``` On Windows
-python3 test.py
 ```
-``` On Linux
+python3 test.py
+OR
 py test.py
-```
-``` On Mac
-python3 test.py
 ```
