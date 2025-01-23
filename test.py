@@ -134,7 +134,7 @@ class SearchMenu:
 
     def display_menu(self):
         print("\n=== 提案搜尋系統 ===")
-        print("資料來源: READr 專題 「中央政府總預算案審查監督平台」")
+        print("資料來源: READr 專題 「中央政府總預算案審查監督平台」(Jan 22, 2025)")
         print("(https://readr.tw/project/3/2025budget/) 使用資料。")
         print("READr: 資料基本上來自立法院議事錄，委員會審查部分須等立法院公佈議事錄才會有資料")
         print("This repository can be found at https://github.com/Qmo37/2025-Budget-Auditor")
