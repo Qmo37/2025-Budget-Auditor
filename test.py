@@ -39,13 +39,7 @@ class ProposalSearcher:
         return filtered_df
 
     def search_by_keyword(self, keyword, search_fields=None):
-        """
-        Search proposals by keyword with more options
 
-        Parameters:
-        - keyword: str, the search term
-        - search_fields: list of str, fields to search in (default: ['content'])
-        """
         if not keyword:
             return pd.DataFrame()
 
